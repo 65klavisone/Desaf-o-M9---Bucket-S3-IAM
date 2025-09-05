@@ -2,7 +2,7 @@
 It is an exercise that consists of creating a bucket within AWS, which also includes the creation of users within a database, whose creation is detailed step by step.
 
 # Portafolio de Claudio Casanueva
-¡Hola! Soy Claudio, apasionado por la ciberseguridad, phyton, oracle, bases de datos, Data Analistic
+¡Hola! Soy Claudio, apasionado por la ciberseguridad, phyton, oracle, bases de datos, Analisis de Datos
 
 ## Habilidades
 - Python, Bash, JavaScript
